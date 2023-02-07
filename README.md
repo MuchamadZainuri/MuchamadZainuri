@@ -19,7 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muchamadzainuri&theme=react&show_icons=true&bg_color=DEG,070335,050872&title_color=ffffff" alt="MostUsedLanguages" height="195"/>
 </div>
 <hr>
-</br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muchamadzainuri&label=Profile%20views&color=0e75b6&style=flat" alt="muchamadzainuri" /> </p>
 <!---
 MuchamadZainuri/MuchamadZainuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
