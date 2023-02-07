@@ -8,8 +8,8 @@
 <h3 align="center">📬 How To Reach Me 📬</h3>
 <p align="center">
 <a href="https://instagram.com/jayzee_2s" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="jayzee_2s" height="40" width="38" /></a>&nbsp;
-<a href="mailto:dennis.walangadi@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="jayzee_2s" height="48" width="38" /></a>&nbsp;
-<a href="https://linkedin.com/in/muchamadzainuri" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="muchamadzainuri" height="40" width="40" /></a>
+<a href="mailto:muchamadzainuri6@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="jayzee_2s" height="48" width="38" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muchamad-zainuri-a54a09251/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="muchamadzainuri" height="40" width="40" /></a>
 </p>
 <hr>
 </br>
